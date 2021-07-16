@@ -1,4 +1,20 @@
-<h3 align="center">Estudante de Desenvolvimento de Software</h3>
+<h3 align="center">Bom dia, boa tarde e boa noite</h3>
+
+<p>Eu sou o Flávio Franco, formado em engenharia civil pela UFOP, mas sempre estou apaixonado e tendo uma veia muito forte por tecnologia e programação. Estou me capacitando cada dia mais afim de me transformar em Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi nunca, jamais deveria ter feito outra escolha que senão essa. De fato, dentre alguns elementos que acompanham muitos desenvolvedores, o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos, resolver problemas.
+Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer Happy Hour!</p>
+
+<ul>Algumas coisas que são indispensáveis na minha vida
+  <li>
+    :robot: Curto demais os processos de produção que as industrias elaboram, é incrível ver todo o sistema de automação evoluindo e robôs ficando cada vez   melhores.
+  </li>
+  <li>
+    🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é pedalar. É algo que me deixa bem leve e tranquilo, se estiver    alguém quiser companhia, pode me chamar.
+  </li>
+  <li>
+    :desktop_computer: Quando se trata de Front-end eu curto utilizar o React, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Pesquiso e aplico elementos novos dentro desta biblioteca, tais como Hooks e NestJS, pois uma coisa que sempre dizem é "Conhecimento nunca é demais". Agora, fazer um layout bonito usando o CSS não é minha especialidade, mas como eu disse, estou nesta trajetória justamente para aprender, ou seja, estou aceitando aulas de design. joy
+  </li>
+</ul>
+
 
 - 🌱 Competências em desenvolvimento: **Back-End (MariaDB, mySQL, Banco de dados)**
 
