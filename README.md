@@ -1,6 +1,6 @@
 <h4 align="center">Bom dia, boa tarde e boa noite</h4>
 
-<p>Meu nome é Flávio, Engenheiro de formação, programador de paixão. Resolvi transformar essa paixão em profissão. Estou me capacitando cada dia mais afim de me transformar em Desenvolvedor Full Stack. Quando me perguntam o motivo da minha mudança de área, provavelmente eu direi nunca, jamais deveria ter feito outra escolha que senão essa. Muito devido ao fato também de gostar de tecnologia, programar, de pensar, discutir planos, resolver problemas.
+<p>Meu nome é Flávio, engenheiro de formação, programador de paixão. Resolvi transformar essa paixão em profissão. Estou me capacitando cada dia mais afim de me transformar em Desenvolvedor Full Stack. Quando me perguntam o motivo da minha mudança de área, provavelmente eu direi nunca, jamais deveria ter feito outra escolha que senão essa. Muito devido ao fato também de gostar de tecnologia, programar, de pensar, discutir planos, resolver problemas.
 Se está pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer Happy Hour!</p>
 
 <ul>Algumas coisas que são indispensáveis na minha vida
