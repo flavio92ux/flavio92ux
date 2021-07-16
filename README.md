@@ -1,7 +1,7 @@
-<h3 align="center">Bom dia, boa tarde e boa noite</h3>
+<h6 align="center">Bom dia, boa tarde e boa noite</h6>
 
-<p>Eu sou o Flávio Franco, formado em engenharia civil pela UFOP, mas sempre estou apaixonado e tendo uma veia muito forte por tecnologia e programação. Estou me capacitando cada dia mais afim de me transformar em Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi nunca, jamais deveria ter feito outra escolha que senão essa. De fato, dentre alguns elementos que acompanham muitos desenvolvedores, o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos, resolver problemas.
-Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer Happy Hour!</p>
+<p>Meu nome é Flávio, Engenheiro de formação, programador de paixão. Resolvi transformar essa paixão em profissão. Estou me capacitando cada dia mais afim de me transformar em Desenvolvedor Full Stack. Quando me perguntam o motivo da minha mudança de área, provavelmente eu direi nunca, jamais deveria ter feito outra escolha que senão essa. Muito devido ao fato também de gostar de tecnologia, programar, de pensar, discutir planos, resolver problemas.
+Se está pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer Happy Hour!</p>
 
 <ul>Algumas coisas que são indispensáveis na minha vida
   <li>
@@ -15,6 +15,8 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
   </li>
 </ul>
 
+
+<h6>Algumas Competências</h6>
 
 - 🌱 Competências em desenvolvimento: **Back-End (MariaDB, mySQL, Banco de dados)**
 
