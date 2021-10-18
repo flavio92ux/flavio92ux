@@ -1,7 +1,7 @@
 <h4 align="center">Bom dia, boa tarde e boa noite</h4>
 
 <p>Meu nome é Flávio, engenheiro de formação e apaixonado por programação. Resolvi transformar essa paixão em profissão. Estou me capacitando com o objetivo de me tornar Desenvolvedor Full Stack. O gosto pela tecnologia me fez ter contato ainda cedo com programação, quando ainda na adolescencia quando fazia pequenos programas em Delphi por hobby. E como dito anteriormente, além de programar, sou geek declarado por tecnologia, computadores, sistemas operacionais, smartphones. Tudo que envolve tecnologia me salta os olhos 😄 Também gosto de pensar, discutir planos, resolver problemas e transmitir ideiais.
-Se está pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer Happy Hour!</p>
+Se está pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer conversa!</p>
 
 <ul>Algumas coisas que são indispensáveis na minha vida
   <li>
