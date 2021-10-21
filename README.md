@@ -5,7 +5,7 @@ Se está pesando se deve ou não me chamar para bater um papo, não pense, só m
 
 <h6>Algumas Competências</h6>
 
-- 🌱 Competências em desenvolvimento: **MySQL, MongoDb, NodeJS, Express, Python**
+- 🌱 Competências desenvolvidas no Back-End: **MySQL, MongoDb, NodeJS, Express, Python**
 
 - 💬 Competências desenvolvidas no Front-End: **React, Rect Hooks, Redux, NodeJS, Context API, HTML, CSS, Bootstrap**
 
