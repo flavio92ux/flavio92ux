@@ -28,11 +28,11 @@ Se está pesando se deve ou não me chamar para bater um papo, não pense, só m
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
 <br>
+<br>
 <a href="https://flavio92ux.github.io/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=flavio92ux&hide=stars&show_icons=true&theme=gruvbox&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=flavio92ux&hide=stars&show_icons=true&theme=gruvbox&layout=compact" />
 </a>
- <br>
 <a href="https://flavio92ux.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio92ux&theme=gruvbox&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio92ux&theme=gruvbox&layout=compact" />
 </a>
 
