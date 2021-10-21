@@ -18,7 +18,7 @@ Se está pesando se deve ou não me chamar para bater um papo, não pense, só m
 
 <h6>Algumas Competências</h6>
 
-- 🌱 Competências em desenvolvimento: **Back-End (MariaDB, MySQL, MongoDb, NodeJs, Express, Python)**
+- 🌱 Competências em desenvolvimento: **Back-End (MariaDB, MySQL, MongoDb, NodeJS, Express, Python)**
 
 - 💬 Competências desenvolvidas no Front-End:: **React, NodeJS, REDUX, Context API, Hooks, HTML, CSS, HTML**
 
