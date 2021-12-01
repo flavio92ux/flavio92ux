@@ -33,7 +33,3 @@ Se está pesando se deve ou não me chamar para bater um papo, não pense, só m
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=flavio92ux&hide=stars&show_icons=true&theme=gruvbox&layout=compact" />
 </a>
 
-<a href="https://flavio92ux.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio92ux&theme=gruvbox&layout=compact" />
-</a>
-
